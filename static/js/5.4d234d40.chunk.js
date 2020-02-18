@@ -1,0 +1,2 @@
+(this["webpackJsonpapp-v4-editor"]=this["webpackJsonpapp-v4-editor"]||[]).push([[5],{838:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return a}));var p=n(2),r=n.n(p);function a(){return r.a.createElement(r.a.Fragment,null,"Home")}a.propTypes={}}}]);
+//# sourceMappingURL=5.4d234d40.chunk.js.map
